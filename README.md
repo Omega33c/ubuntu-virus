@@ -13,4 +13,5 @@ that the damage is irreversible.
 
 # Instructions
 sudo apt install python
+
 sudo python ubuntu-virus.py
